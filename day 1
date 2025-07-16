@@ -1,0 +1,18 @@
+HTML:
+  
+   *Hyper text markup language.
+   *To create web page.
+   *HTML is a web presentation language.
+   *Hyper means hyperlink using <a> </a>.
+   *Text means it is a response.
+   *Marklanguage is using tag.
+   *In <head> has only 5 tag (<title>,<meta>,<style>,<link>,<script>)
+   *meta tag is a search engine optimization.
+  
+    *container tag: container tag has opening and closing tag.
+    *non container tag: non container have only opening tag. there are 6 tag only (<img>,<link>,<meta>,<hr>,<br>,<input>)
+    *./ current working directory
+
+HTML tag categories:
+
+ *Document tags : html, head, body | title, meta |
